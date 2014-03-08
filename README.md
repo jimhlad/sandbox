@@ -1,4 +1,6 @@
 sandbox
 =======
 
-First ever repository to test git
+First ever repository to test git.
+
+First committed text.
